@@ -2,6 +2,12 @@
 
 **Human-supervised adaptive business infrastructure for sovereign, digitally legible enterprises.**
 
+Start here:
+
+1. `kastel-ground-truth` - canonical design doctrine
+2. `kastel-stack` - public framework and reference implementation
+3. `kastel-node-template` - starter for private node deployments
+
 Kastel Stack is an open, auditable framework for helping independent operators, small teams and cross-border ventures model their business, connect their tools, detect bottlenecks, propose safe actions, preserve human judgement, and bank what works as reusable operating capability.
 
 It is designed for founder-led businesses, specialist teams, creator enterprises, research-led ventures, artisan businesses and decentralised operator networks that want intelligent growth without surrendering agency to black-box platforms, hyperscaler lock-in, venture-capital growth logic or unsupervised agentic automation.

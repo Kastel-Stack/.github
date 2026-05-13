@@ -1,0 +1,37 @@
+name: Feature request
+description: Suggest an improvement to Kastel public specs, templates, or examples.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What limitation does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Ground truth
+        - Schema
+        - Template
+        - Connector
+        - Policy
+        - Example
+        - Documentation
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Boundary considerations
+      description: Note any privacy, claims, security, payments, or governance implications.
+
