@@ -112,6 +112,27 @@ Should this become a reusable operating script?
 
 In this sense, Kastel treats business scaling as a live problem-space training environment. The enterprise becomes a real-world niche in which the operator practises better evidence sampling, variable abstraction, hypothesis testing, boundary checking, delayed review and pattern banking.
 
+## How Kastel Differs from Frontier Agentic AI
+
+Kastel sits near enterprise AI, agentic infrastructure and operational intelligence, but it is built around a different operating model.
+
+Many frontier agentic AI systems focus on centralising operational data, automating workflows, increasing throughput, coordinating agents or making autonomous systems act reliably at scale.
+
+Kastel takes a different route.
+
+It is not a closed enterprise intelligence platform, a black-box automation layer, or a system for replacing organisational judgement with autonomous agents. It is a human-supervised operating doctrine and software scaffold for adaptive scaling.
+
+Kastel uses agents, schemas and workflows, but the goal is not autonomous enterprise optimisation. The goal is to widen the viable operating band of a sovereign enterprise while preserving truth, judgement, niche fit, privacy, security and human control.
+
+Kastel agents are therefore not designed to optimise blindly for growth, engagement, conversion or productivity. They are designed to route signals through source-of-truth checks, state-niche fit estimates, Action/Clarify gates, human judgement gates, delayed review and script-banking rules.
+
+Kastel scales operating intelligence by widening the viable action band of the enterprise, not by maximising extraction from its niche.
+
+The aim is not agentic AI for enterprise automation.
+
+The aim is agentic infrastructure for sovereign, human-supervised, non-extractive scaling.
+
+
 ## Public Repositories
 
 Start with these:
@@ -122,7 +143,7 @@ Start with these:
 
 Private node repositories are used for live business data, deployment details, customer context, secrets, CRM details, payment context and partnership-specific operating material.
 
-## What People Can Contribute
+## What You Can Contribute
 
 Useful public contributions include:
 
@@ -176,4 +197,6 @@ For security, privacy, secrets or vulnerability concerns:
 Project steward: **Mark Ashton Smith**.
 
 Preferred contact path for public work is GitHub issues and pull requests in the relevant Kastel Stack repository. For sensitive security or privacy matters, use the private reporting route described in `SECURITY.md`.
+
+
 
