@@ -15,6 +15,8 @@ Kastel uses a specific meaning of scaling.
 
 Scaling does **not** mean maximising growth, automation, engagement, extraction or output at any cost. It means widening the viable operating band of an enterprise: the range of decisions, actions, offers, partnerships, systems and feedback loops it can handle while remaining truthful, solvent, adaptive, human-governed and coupled to its real niche.
 
+In Trident-G terms, Kastel treats enterprise scaling as an allostatic problem: keep the organisation inside a viable operating band while conditions, load, uncertainty and opportunity change. State-niche fit is the external coupling test for that band.
+
 Kastel is therefore not trying to automate everything or optimise the enterprise towards a single maximised metric. It is designed to make human judgement easier, more legible, more reusable and better coupled to reality.
 
 The core operating idea is simple:

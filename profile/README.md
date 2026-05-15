@@ -16,6 +16,12 @@ Kastel Stack is not an automation stack in the narrow sense.
 
 It is a **supervised Gf → Gc conversion system for business operations**.
 
+Kastel uses a specific meaning of scaling. Scaling does **not** mean maximising growth, automation, engagement, extraction or output at any cost. It means widening the viable operating band of an enterprise: the range of decisions, actions, offers, partnerships, systems and feedback loops it can handle while remaining truthful, solvent, adaptive, human-governed and coupled to its real niche.
+
+In Trident-G terms, this is enterprise allostasis. The system should keep the business within a viable operating band as load, uncertainty and opportunity change. State-niche fit is the external coupling test: action should teach, not merely create activity.
+
+Kastel is therefore not trying to optimise the enterprise towards one maximised metric. It is designed to make human judgement easier, more legible, more reusable and better coupled to reality.
+
 ---
 
 ## Core idea
@@ -130,6 +136,27 @@ outcome observations
 ```
 
 This prevents the system from confusing noise, trend language or tool outputs with business truth.
+
+---
+
+## Cognitive skill development
+
+Kastel Stack is not only an automation scaffold. It is designed to improve the operator's meta-cognitive, inductive and epistemic skills over time.
+
+Every Kastel loop should make the structure of judgement more visible:
+
+```text
+signal → evidence
+evidence → variable
+variable → hypothesis
+hypothesis → discriminating probe
+probe → Action or Clarify Intent
+outcome → feedback
+feedback → model update
+repeated success → banked script
+```
+
+The aim is not to replace the operator's judgement with autonomous agents. The aim is to make judgement more explicit, testable, reusable and transferable across contexts.
 
 ---
 
