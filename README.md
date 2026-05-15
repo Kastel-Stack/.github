@@ -1,6 +1,6 @@
 
 # Kastel Stack: An Invitation to Build Something Different
-### Internal White Paper · May 2026
+White Paper · May 2026
 
 ---
 
