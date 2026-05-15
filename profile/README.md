@@ -14,7 +14,7 @@ It is designed for founder-led businesses, specialist teams, creator enterprises
 
 Kastel Stack is not an automation stack in the narrow sense.
 
-It is a **supervised Gf → Gc conversion system for business operations**.
+It is a **supervised Gf (fluid intelligence) → Gc (crystallised intelligence) conversion system for business operations**.
 
 Kastel uses a specific meaning of scaling. Scaling does **not** mean maximising growth, automation, engagement, extraction or output at any cost. It means widening the viable operating band of an enterprise: the range of decisions, actions, offers, partnerships, systems and feedback loops it can handle while remaining truthful, solvent, adaptive, human-governed and coupled to its real niche.
 
